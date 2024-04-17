@@ -20,7 +20,7 @@ In main.js or plugin (for Nuxt.js):
 ```js
 import { createApp } from 'vue';
 import Vue3ConfirmDialog from 'vue3-confirm-dialog';
-import 'vue3-confirm-dialog/style;
+import 'vue3-confirm-dialog/style';
 
 const app = createApp();
 
